@@ -11,3 +11,9 @@ Clone the repository to `~/.config/tmux` and create the symlink:
 $ ln -s ~/.config/tmux/tmux.conf ~/.tmux.conf
 ```
 
+This also requires:
+
+```
+$ brew install reattach-to-user-namespace
+```
+
