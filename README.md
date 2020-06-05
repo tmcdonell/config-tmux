@@ -15,5 +15,6 @@ This also requires:
 
 ```
 $ brew install reattach-to-user-namespace
+$ git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 ```
 
